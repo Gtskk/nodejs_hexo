@@ -735,11 +735,11 @@ a.article-title:hover {
   float: right;
   margin-left: 20px;
 }
-.article-share-link:before {
+/* .article-share-link:before {
   content: "\f064";
   font-family: FontAwesome;
   padding-right: 6px;
-}
+} */
 #article-nav {
   position: relative;
 }
